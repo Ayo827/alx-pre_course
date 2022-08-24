@@ -1,2 +1,1 @@
-#My first readme
-Using shell
+My first readme
